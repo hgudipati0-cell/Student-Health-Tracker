@@ -18,3 +18,11 @@ This project uses Python to collect data of students' habits and health to outli
 
 # Creator's Note
 This is my first project using authentic Python to create a useful tool for the public, while also initializing my data analytic skills with strucutured datasets. Since this project is one of my first real Python projects, I had some difficulty in the beginning. I eventually got the hang of using the libraries and inputs to create the tracker. 
+
+# Graph Screenshots
+
+![Graph 1](Figure_1.png)
+
+![Graph 2](Figure_2.png)
+
+![Graph 3](Figure_3.png)
